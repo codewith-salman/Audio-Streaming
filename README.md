@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <h1>🎧 Pod - Audio Streaming Website</h1>
-  <p>A sleek and modern audio streaming website UI built with HTML, CSS, and JavaScript.</p>
+  <p>A sleek and modern audio streaming website UI built with HTML, CSS.</p>
   <img src="Audio%20Streaming/images/screenshot.PNG" alt="Pod Audio Streaming Website Screenshot" width="100%"/>
 </div>
 
